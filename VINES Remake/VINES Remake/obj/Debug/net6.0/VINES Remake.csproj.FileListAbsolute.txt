@@ -1,0 +1,26 @@
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.RazorAssemblyInfo.cache
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.RazorAssemblyInfo.cs
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\appsettings.json
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\VINES Remake.staticwebassets.runtime.json
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\VINES Remake.exe
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\VINES Remake.deps.json
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\VINES Remake.runtimeconfig.json
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\VINES Remake.dll
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\bin\Debug\net6.0\VINES Remake.pdb
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\scopedcss\Pages\Shared\_LayoutLanding.cshtml.rz.scp.css
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\scopedcss\bundle\VINES Remake.styles.css
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\scopedcss\projectbundle\VINES Remake.bundle.scp.css
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.dll
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\refint\VINES Remake.dll
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.pdb
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\VINES Remake.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Mk.II\VINES Remake\VINES Remake\obj\Debug\net6.0\ref\VINES Remake.dll

@@ -1,0 +1,44 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+ <!-- ======= Blog Page ======= -->
+    <div class="blog-page area-padding">
+        <div class="container">
+            <div class="row">
+                <h5><b>Institution Map</b></h5>
+                    <div id="vaxMap"></div>
+
+                @*<!-- Community posts-->
+                <h5>Community Posts</h5>
+                  <div class="recent-post">
+                    @foreach(var com in Model.CommunityPosts)
+                     {
+                     <div class="recent-single-post">
+                          <div class="post-img">
+                              <img src="assets/img/VINESii.png" alt="">
+                          </div>
+                          <div class="pst-content">
+                          
+                            <p>@com.communityPostTitle</p>
+                            <br />
+                            <p>@com.communityPostContent</p>
+                          </div>
+                    </div>
+                    }
+                  </div><!-- END OF Community posts-->*@
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+<script>
+    initializeMap();
+    getLocation();
+</script>
